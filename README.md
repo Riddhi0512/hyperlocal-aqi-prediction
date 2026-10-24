@@ -1,6 +1,6 @@
 # Hyper-Local Air Quality Prediction for Urban Areas
 
-[**Open Notebook in Google Colab**](https://colab.research.google.com/drive/1NjeJZjhBmTSe8ua1T9bdQxUfgyEX-sSX?usp=sharing)
+[**Open Notebook in Google Colab**](https://colab.research.google.com/drive/1COmvs-ybVBJl_mdlMZr4BPzIzZ4ub70)
 
 ## Overview
 
